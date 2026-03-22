@@ -13,3 +13,4 @@ class Calculator:
         return math.sqrt(x)
 
 print("Calculator Ready")
+print("Feature sqrt added")
