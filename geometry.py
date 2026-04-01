@@ -9,3 +9,4 @@ class GeometryCalculator:
         return length * width
 
 print("Geometry Ready")
+print("Rectangle area feature added")
