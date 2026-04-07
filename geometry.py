@@ -9,3 +9,4 @@ class GeometryCalculator:
         return length * width
 
 print("Geometry Ready")
+print("Circle area feature added")
